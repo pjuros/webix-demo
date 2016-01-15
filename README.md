@@ -17,3 +17,5 @@ Tested components:
 ## Installation
 
 Clone project and open index.html with your browser.
+
+## Screenshots
