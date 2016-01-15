@@ -19,3 +19,6 @@ Tested components:
 Clone project and open index.html with your browser.
 
 ## Screenshots
+
+![Dashboard](https://github.com/pjuros/webix-demo/blob/master/img/screenshot_1.png)
+![Datatable](https://github.com/pjuros/webix-demo/blob/master/img/screenshot_2.png)
